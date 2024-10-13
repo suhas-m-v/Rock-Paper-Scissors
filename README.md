@@ -35,3 +35,10 @@ This is a simple Rock-Paper-Scissor game built with **HTML**, **CSS**, and **Jav
    cd rock-paper-scissor
 3. Open the index.html file in your browser to start playing.
    
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+If you have any questions, feel free to reach out to me at [mvsuhas2004@gmail.com](mailto:mvsuhas2004@gmail.com).
