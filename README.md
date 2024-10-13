@@ -2,7 +2,7 @@
 
 This is a simple Rock-Paper-Scissor game built with **HTML**, **CSS**, and **JavaScript**. It allows the player to choose between rock, paper, or scissors and play against a computer that makes random choices. The game displays the results and keeps track of the scores.
 
-![Rock-Paper-Scissor Game Screenshot](./screenshot.png)
+![Rock-Paper-Scissor Game Screenshot](https://github.com/suhas-m-v/Rock-Paper-Scissors/blob/0aba5f57290c0d132234b20b2fe9b042f33fcf10/Screenshot%202024-10-13%20140706.png)
 
 ## Features
 
