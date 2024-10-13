@@ -29,7 +29,7 @@ This is a simple Rock-Paper-Scissor game built with **HTML**, **CSS**, and **Jav
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/suhas-m-v/rock-paper-scissor.git
+   git clone https://github.com/suhas-m-v/Rock-Paper-Scissors.git
 2. Navigate to the project directory
    ```bash
    cd rock-paper-scissor
